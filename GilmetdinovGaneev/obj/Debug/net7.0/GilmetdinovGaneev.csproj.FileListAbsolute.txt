@@ -1,0 +1,126 @@
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\appsettings.json
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\GilmetdinovGaneev.staticwebassets.runtime.json
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\GilmetdinovGaneev.exe
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\GilmetdinovGaneev.deps.json
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\GilmetdinovGaneev.runtimeconfig.json
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\GilmetdinovGaneev.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\GilmetdinovGaneev.pdb
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\Humanizer.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\GilmetdinovGaneev.csproj.AssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\GilmetdinovGaneev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\GilmetdinovGaneev.AssemblyInfoInputs.cache
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\GilmetdinovGaneev.AssemblyInfo.cs
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\GilmetdinovGaneev.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\GilmetdinovGaneev.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\GilmetdinovGaneev.RazorAssemblyInfo.cache
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\GilmetdinovGaneev.RazorAssemblyInfo.cs
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\staticwebassets\msbuild.GilmetdinovGaneev.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\staticwebassets\msbuild.build.GilmetdinovGaneev.props
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GilmetdinovGaneev.props
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GilmetdinovGaneev.props
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\scopedcss\bundle\GilmetdinovGaneev.styles.css
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\scopedcss\projectbundle\GilmetdinovGaneev.bundle.scp.css
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\GilmetdinovGaneev.csproj.CopyComplete
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\GilmetdinovGaneev.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\refint\GilmetdinovGaneev.dll
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\GilmetdinovGaneev.pdb
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\GilmetdinovGaneev.genruntimeconfig.cache
+C:\Users\student\Documents\Visual Studio 2022\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\ref\GilmetdinovGaneev.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\appsettings.Development.json
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\appsettings.json
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\GilmetdinovGaneev.staticwebassets.runtime.json
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\GilmetdinovGaneev.exe
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\GilmetdinovGaneev.deps.json
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\GilmetdinovGaneev.runtimeconfig.json
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\GilmetdinovGaneev.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\GilmetdinovGaneev.pdb
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\Google.Protobuf.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\Humanizer.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\MySql.Data.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\System.CodeDom.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\GilmetdinovGaneev.csproj.AssemblyReference.cache
+D:\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\GilmetdinovGaneev.GeneratedMSBuildEditorConfig.editorconfig
+D:\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\GilmetdinovGaneev.AssemblyInfoInputs.cache
+D:\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\GilmetdinovGaneev.AssemblyInfo.cs
+D:\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\GilmetdinovGaneev.csproj.CoreCompileInputs.cache
+D:\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\GilmetdinovGaneev.MvcApplicationPartsAssemblyInfo.cache
+D:\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\GilmetdinovGaneev.RazorAssemblyInfo.cache
+D:\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\GilmetdinovGaneev.RazorAssemblyInfo.cs
+D:\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\staticwebassets\msbuild.GilmetdinovGaneev.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\staticwebassets\msbuild.build.GilmetdinovGaneev.props
+D:\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GilmetdinovGaneev.props
+D:\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GilmetdinovGaneev.props
+D:\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\staticwebassets.pack.json
+D:\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\staticwebassets.build.json
+D:\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\staticwebassets.development.json
+D:\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\scopedcss\bundle\GilmetdinovGaneev.styles.css
+D:\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\scopedcss\projectbundle\GilmetdinovGaneev.bundle.scp.css
+D:\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\GilmetdinovGaneev.csproj.CopyComplete
+D:\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\GilmetdinovGaneev.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\refint\GilmetdinovGaneev.dll
+D:\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\GilmetdinovGaneev.pdb
+D:\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\GilmetdinovGaneev.genruntimeconfig.cache
+D:\GilmetdinovGaneev\GilmetdinovGaneev\obj\Debug\net7.0\ref\GilmetdinovGaneev.dll
